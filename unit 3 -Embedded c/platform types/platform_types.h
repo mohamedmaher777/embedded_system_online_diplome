@@ -25,10 +25,13 @@ typedef double              float64;
 
 typedef volatile sint8      vint8;
 typedef volatile uint8      vuint8;
+
 typedef volatile sint16     vsint16;
 typedef volatile uint16     vuint16;
+
 typedef volatile sint32     vsint32;
 typedef volatile uint32     vuint32;
+
 typedef volatile float32    vfloat32;
 typedef volatile float64    vfloat64;
 
